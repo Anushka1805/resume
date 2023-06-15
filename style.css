@@ -1,0 +1,154 @@
+
+body{
+    margin:0px;
+    text-align: center;
+    font-family: Trebuchet 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    font-size: 0;
+    background-color: #FDCEDF;
+
+}
+
+
+h1{
+   font-family: 'sacramento',cursive; 
+    font-size: 3.125rem;
+   
+
+   
+}
+.a{
+    font-size: 1.56rem;
+    color: purple;
+}
+.top-container{
+    background-color: #FDCEDF;
+    position: relative;
+    padding: 90px;
+}
+
+.image{
+    height: 400px;
+    width:400px;
+}
+.up{
+   position:absolute;
+   margin-top: 100px;
+   margin-left: 200px;
+}
+.down{
+   position: absolute;
+   margin-top: 400px;
+  margin-right: 250px;
+}
+.propic{
+    width:18.75rem;
+    height:18.75rem;
+    margin-top: 50px;
+}
+.hello{
+    font-size: 1.8rem;
+    color:rgb(239, 27, 133);
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+.profile{
+    background-color: #F8E8EE;
+    font-size: 1.50rem;
+    color:black;
+    padding-bottom: 20px;
+
+}
+h3{
+    font-size: 1.57rem;
+    color:black;
+}
+
+.abc{
+    color:#800080;
+    font-size: 30px;
+}
+.btn {
+        font: bold 15px Arial;
+        text-decoration: none;
+        background-color:hotpink;
+        color:black;
+        padding: 5px 8px 5px 8px;
+        
+        border-top: 1px solid #CCCCCC;
+        border-right: 1px solid #333333;
+        border-bottom: 1px solid #333333;
+        border-left: 1px  solid #CCCCCC;
+      }
+
+.comp{
+    
+   
+    height: 180px;
+    width:180px;
+    float: left;
+
+padding-right: 20px;
+}
+.pro{ position:relative;
+     bottom: 40px;
+    height: 200px;
+    width:200px;
+   float: right;
+   
+}
+.middle-container{
+   font-size: 0;
+    background-color:  #f9f5f6;
+    
+}
+
+
+.bottom-container{
+    margin-top: 20px;
+    background-color: palevioletred;
+    font-size: 0;
+    padding-top: 30px;
+    display:block;
+    padding-bottom: 10px;
+}
+.co{
+    font-size: 1.4rem;
+    color: #333333;
+}
+a{
+    font-size: 1.4rem;
+    color:peachpuff;
+    margin-right: 20px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+a:hover{
+    color: #F8E8EE;
+}
+.xy{
+    font-size: 1.4rem;
+    
+   
+}
+.contact-me{
+    background-color: #FDCEDF;
+     
+    padding-bottom: 70px;
+}
+.p{
+    font-size: 1.4rem;
+    color: purple;
+}
+.s{
+    font-size: 30px;
+    color:rgb(245, 10, 128);
+   padding-top: 20px;
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+  padding-bottom: 70px;
+
+}
