@@ -30,16 +30,7 @@ h1{
     height: 400px;
     width:400px;
 }
-.up{
-   position:absolute;
-   margin-top: 100px;
-   margin-left: 400px;
-}
-.down{
-   position: absolute;
-   margin-top: 400px;
-  margin-right: 250px;
-}
+
 .propic{
     width:18.75rem;
     height:18.75rem;
